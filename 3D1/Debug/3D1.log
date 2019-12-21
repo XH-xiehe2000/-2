@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\vs project\3d1\3d1\main.cpp(205): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs project\3d1\3d1\main.cpp(208): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs project\3d1\3d1\main.cpp(239): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  3D1.vcxproj -> D:\VS Project\3D1\Debug\3D1.exe
